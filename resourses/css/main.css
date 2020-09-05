@@ -1,0 +1,227 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    padding:0;
+    margin:0;
+}
+#topbar {
+    width:1000px;
+    margin:0 auto;
+    height:40px;
+}
+#logo {
+    margin-top:8px;
+    float:left;
+    margin-right:8px;
+}
+.topbar-section {
+    float:left;
+    border-left:1px #cccccc solid;
+    height:100%;
+}
+#signin-img {
+    width:25px;
+    margin:7px 15px;
+    float:left;
+}
+#signin-text {
+    font-weight:bold;
+    font-size:90%;
+    position:relative;
+    top:11px;
+}
+#bell {
+    height:20px;
+    margin:9px 10px 0 10px;
+}
+#bell-div {
+    float:left;
+}
+.topbar-menu {
+    font-weight:bold;
+    font-size:90%;
+    padding:13px 15px 0 15px;
+    height:27px;
+}
+#down-arrow {
+    width:8px;
+    margin-left:15px;
+}
+#search-box {
+    background-color:#e4e4e4;
+    border:none;
+    font-weight:bold;
+    font-size:14px;
+    padding:5px;
+    margin:6px 0 6px 6px;
+    float:left;
+}
+#search-icon {
+    height:20px;
+    margin-top:7px;
+}
+.clear {
+    clear:both;
+}
+#menu-bar-container {
+    border-top:1px solid #cccccc;
+    background-color:#bb1919;
+    width:100%;
+    height:60px;
+}
+#menu-bar {
+    width:1000px;
+    margin:0 auto;
+}
+h1 {
+    color:white;
+    padding:0;
+    margin:0;
+    font-size:40px;
+    font-weight:normal;
+    padding:8px;
+}
+
+
+
+header li {
+    display:inline;
+    padding:0 10px;
+    
+}	
+#menu-bar2-container {
+    background-color: #a91717;
+    width:100%;
+}
+#menu-bar2 {
+    width:1000px;
+    margin: 0 auto;
+    height:40px;
+}
+#menu-bar2 a{
+    color:white;
+    text-decoration:none;
+    padding:0 10px;
+    border-right:1px solid #bb4545;
+    font-size:14px;
+    position:relative;
+    top:10px;
+}
+#menu-bar2 a:hover {
+    text-decoration:underline;
+}
+.no-border {
+    border:none !important;
+}
+#white-triangle {
+    width:7px;
+    height:5px;
+    position:relative;
+    top:10px;
+}
+#page-container {
+    width:1000px;
+    margin: 0 auto;
+}
+h2 {
+    color:#5b5b5b;
+    font-weight:normal;
+    font-size:20px;
+    border-bottom:3px solid #bb4545;
+    width:100px;
+}
+h3 a {
+    color:black;
+    text-decoration:none;
+    font-size:30px;
+}
+h3 a:hover {
+    color:#1167a8;
+}
+#article-summery {
+    color:#5b5b5b;
+    font-weight:normal;
+    font-size:15px;
+    width:250px;
+    float:left;
+}
+
+
+#article-summery img {
+    width:14px;
+    padding-right:5px;
+    position:relative;
+    top:2px;
+}
+#topic-link {
+    font-size:15px;
+    color:#a91717;
+    border-left:1px solid #cccccc;
+    padding-left:8px;
+}
+#article-summery a:hover{
+    color:#1167a8;
+}
+#questions a{
+    color:black;
+    border:none;
+}
+
+#article-container{
+    float:left;
+    width:620px;
+    border-right:1px solid #cccccc;
+}
+#main-image {
+    width:350px;
+    height:250;
+    padding-right:20px;
+}
+#article-hr {
+    border-top:1px solid #a91717;
+    width:50px;
+}
+.article-links {
+    font-size:15px;
+}
+#aside-container {
+    float:right;
+    width:355px;
+    margin-left:0px;
+}
+#aside img {
+    float:left;
+    padding-right:5px;
+    
+}
+#aside a {
+    color:black;
+    text-decoration:none;
+    font-weight:bold;
+    
+}
+#aside a:hover {
+    color:#1167a8;
+}
+#aside p{
+    font-size:14px;
+}
+h4 {
+    font-weight:normal;
+    font-size:20px;
+
+}
+.topic-link {
+    font-size:15px;
+    color:#a91717 !important;
+    border-left:1px solid #cccccc;
+    padding-left:8px;
+}
+.topic-link a:hover {
+    color:#1167a8;
+}	
+.clock {
+    width:14px;
+    padding-right:5px;
+    position:relative;
+    top:2px;
+}
